@@ -1,2 +1,3 @@
 # dio
-Dio-bootcamp estudos com Java e Angular.
+Dio-bootcamp - 
+*[poke-api]*
